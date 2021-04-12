@@ -1,11 +1,9 @@
 # SingleStone Frontend Exercise
+App is deployed here: https://singlestone-react.vercel.app/
+Github here: https://github.com/christophersutton/singlestone-react
 
-
-
-### `yarn start`
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
+To run the app:
+- yarn start
+or
+- npm i 
+- npm run start

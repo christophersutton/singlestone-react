@@ -35,7 +35,7 @@ const Button = styled.a`
 
 const Section = styled.section`
   // make font sizes fluid by using vw for
-  // container and ems for text items
+  // container and ems for Info text items
   font-size: 2.5vw;
   background-image: url(${hero});
   background-size: 130% auto;
@@ -98,7 +98,7 @@ const Hero = () => {
           </h1>
           <p>
             What's the best way to shop for the latest video games and
-            perpipherals? How about never shopping at all? <br />
+            peripherals? How about never shopping at all? <br />
             You'll get new stuff on your doorstep—every month.
           </p>
           <Button href="/">Get Started</Button>
